@@ -1,0 +1,4 @@
+package_name("com.gamestudio100.game_056_guess_the_country")
+app_identifier("com.gamestudio100.game_056_guess_the_country")
+# json_key_file(ENV["PLAY_JSON_KEY"])   # Google Play service account (secret)
+# apple_id(ENV["APPLE_ID"])
