@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_056_guess_the_country/core/level_plan.dart';
-import 'package:game_056_guess_the_country/core/rng.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/rng.dart';
 import 'package:game_056_guess_the_country/game/quiz_engine.dart';
 import 'package:game_056_guess_the_country/game/rules.dart';
 
